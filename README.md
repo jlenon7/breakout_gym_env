@@ -10,6 +10,11 @@ Learn more about reinforcement learning algorithms.
 
 <img src="resources/sample.gif" width="500px" alt="Sample" />
 
+## TODOs
+
+- [ ] Train the model
+- [ ] Save the model to be reused with a library like [stable-baselines](https://stable-baselines3.readthedocs.io/en/master/)
+
 ## Running
 
 To run the gym environment first create a new Python environment and activate it. I'm using [Anaconda](https://www.anaconda.com/) for setting the python version that pipenv should use to set up the environment. The command bellow will automatically setup the environment with conda and pipenv:
