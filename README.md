@@ -1,4 +1,4 @@
-# OpenAI Breakout Gym Environment 🤖
+# OpenAI Breakout Gym Environment 🏋️
 
 > Exploring OpenAI gym environment with Breakout game to learn reinforcement learning algorithms.
 
