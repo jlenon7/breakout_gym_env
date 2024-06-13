@@ -23,7 +23,7 @@ To run the gym environment first create a new Python environment and activate it
 make env
 ```
 
-Now install all the project dependencies:
+Now install all the project dependencies and Atari ROMS:
 
 ```shell
 make install-all

@@ -14,6 +14,8 @@ env:
 # Install all libraries of package
 install-all:
 	pipenv install --system --dev
+	ale-import-roms resources/HCROMS
+	ale-import-roms resources/ROMS
 
 # Install a package 
 install:
